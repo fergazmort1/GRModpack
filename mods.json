@@ -139,6 +139,10 @@
     { 
       "name": "NaturesCompass-1.21.1-2.6.0-fabric.jar",
       "url": "https://github.com/fergazmort1/GRModpack/releases/download/v1.0.0/NaturesCompass-1.21.1-2.6.0-fabric.jar"
+    },
+    { 
+      "name": "Explorify.v1.6.5.mod.jar",
+      "url": "https://github.com/fergazmort1/GRModpack/releases/download/v1.0.0/Explorify.v1.6.5.mod.jar"
     }
   ]
 }
