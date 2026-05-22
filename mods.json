@@ -131,6 +131,14 @@
     { 
       "name": "AmbientSounds_FABRIC_v6.3.8_mc1.21.1.jar",
       "url": "https://github.com/fergazmort1/GRModpack/releases/download/v1.0.0/AmbientSounds_FABRIC_v6.3.8_mc1.21.1.jar"
+    },
+    { 
+      "name": "ExplorersCompass-1.21.1-2.6.0-fabric.jar",
+      "url": "https://github.com/fergazmort1/GRModpack/releases/download/v1.0.0/ExplorersCompass-1.21.1-2.6.0-fabric.jar"
+    },
+    { 
+      "name": "NaturesCompass-1.21.1-2.6.0-fabric.jar",
+      "url": "https://github.com/fergazmort1/GRModpack/releases/download/v1.0.0/NaturesCompass-1.21.1-2.6.0-fabric.jar"
     }
   ]
 }
